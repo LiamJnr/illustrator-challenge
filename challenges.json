@@ -8,5 +8,10 @@
         "day": 2,
         "title": "Minimal Icon Set",
         "prompt": "Design a set of 5 mininmalist icons around a digital theme-like communication, files, or tools. Keep them consistent in size and style."
+    },
+    {
+        "day": 3,
+        "title": "Gradient Ecploration",
+        "prompt": "Create a digital artwork or abstract composition using gradients as the main visual element. Experiment with gradient types (linear, radial, freeform) and explore how color transitions can create depth, atmosphere, or motion. Bonus: Try using transparency and blending modes to push the effect further."
     }
 ]
