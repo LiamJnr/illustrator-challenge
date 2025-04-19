@@ -24,7 +24,7 @@ fetch(CHALLENGES_URL)
         }else if(daysDifference < 0){
             challengeContainer.innerHTML = `<p>Your challenge hasn't started yet. Come back on Day 1!</p>`
         }else{
-            challengeContainer.innerHTML = `<p>You've completed all 30 days. Congarts!</p>`
+            challengeContainer.innerHTML = `<p>You've completed all 30 days. Congrats!</p>`
         }
     })
     .catch(error => {
